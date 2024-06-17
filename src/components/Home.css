@@ -1,0 +1,11 @@
+#home{
+    background-image: url('https://img.freepik.com/free-vector/hand-drawn-pet-shop-pattern-background_23-2150842425.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#circle {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+  }
