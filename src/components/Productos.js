@@ -17,7 +17,7 @@ const Productos = () => {
             <div className="carousel-caption text-start">
                 <h1>Descuento en Ropa para tus mascotas</h1>
                 <p className="opacity-75">Algún contenido de marcador de posición representativo para la primera diapositiva del carrusel.</p>
-                <p><a className="btn btn-lg btn-primary" href="#">Regístrate hoy</a></p>
+                <p><a className="btn btn-primary" href="/productos">Regístrate hoy</a></p>
             </div>
             </div>
         </div>
@@ -37,7 +37,7 @@ const Productos = () => {
             <div className="carousel-caption text-end">
                 <h1>Y mucho Mas!!!</h1>
                 <p>Algún contenido representativo de marcador de posición para la tercera diapositiva de este carrusel.</p>
-                <p><a className="btn btn-lg btn-primary" href="#">Explorar galería</a></p>
+                <p><a className="btn btn-primary" href="#">Explorar galería</a></p>
             </div>
             </div>
         </div>

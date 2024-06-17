@@ -13,7 +13,7 @@ const Home = () => {
                   Mauris quisque neque ultricies diam accumsan nunc vulputate ullamcorper montes tortor, pretium primis faucibus enim metus himenaeos viverra bibendum. Scelerisque at semper egestas orci libero donec massa, habitant vulputate tellus augue mi faucibus tempus nec, mattis aliquam facilisis a urna malesuada. Nisi habitant imperdiet sociis id ridiculus ac sem, pretium natoque nam cras neque est netus egestas, conubia eros sapien vitae ultrices tristique.</p>
                 <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
                 <button type="button" className="btn btn-info btn-lg px-4 me-sm-3 fw-bold">Pet Store</button>
-                <button type="button" className="btn btn-light btn-lg px-4">Comentarios</button>
+                <button type="button" className="btn btn-light btn-lg px-4">Contactanos</button>
                 </div>
             </div>
             </div>
